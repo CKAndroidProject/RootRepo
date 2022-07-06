@@ -15,13 +15,18 @@ A good start would be to check your device for already known vulnerabilities. Th
 ### Unzip online
 
 https://extract.me/
+
 https://unzip-online.com/
+
 or
-rapidleech v2 rev 46 at DuckDuckGo 
+
+search for `rapidleech v2 rev 46` at DuckDuckGo
+
 https://duckduckgo.com/?q=rapidleech+v2+rev+46&ia=web
  
 
 #### To-Do
 - mark zips as (APK) (Win) (Linux) etc
-- mark zips wether rotting method requires active internet connection
+- mark zips wether rot
+- ting method requires active internet connection
 - add Android versions ICS JB KK LP MM N O ...

@@ -27,6 +27,7 @@ https://duckduckgo.com/?q=rapidleech+v2+rev+46&ia=web
 
 #### To-Do
 - mark zips as (APK) (Win) (Linux) etc
-- mark zips wether rot
-- ting method requires active internet connection
+- mark zips wether rooting method requires active internet connection
+
+
 - add Android versions ICS JB KK LP MM N O ...
